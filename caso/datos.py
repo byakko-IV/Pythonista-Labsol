@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 # -*- coding: utf-8 -*-
-
+#datos que son utilizados por todas las fuciones en los demás módulos
 carreras = ("Sistemas", "Derecho", "Actuaría", "Arquitectura", "Administración")
 
 orden = ("Nombre", "Primer Apellido", "Segundo Apellido", "Carrera", "Semestre",

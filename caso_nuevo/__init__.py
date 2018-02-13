@@ -4,6 +4,7 @@
 """Ejemplo de modulos en el curso de Python"""
 import caso_nuevo.altas as altas
 import caso_nuevo.archivos as archivos
+import caso_nuevo.busqueda as busqueda
 
 def principal():
     while True:

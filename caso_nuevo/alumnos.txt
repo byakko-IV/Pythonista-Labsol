@@ -4,3 +4,4 @@
 {"Nombre": "Emiliano", "Primer Apellido": "Rentería", "Segundo Apellido": "", "Carrera": "Administración", "Semestre": 4, "Promedio": 8.7, "Al Corriente": True}
 {"Nombre": "Patricio", "Primer Apellido": "Ayala", "Segundo Apellido": "Arriaga", "Carrera": "Sistemas", "Semestre": 5, "Promedio": 8.0, "Al Corriente": True}
 {'Nombre': 'Jaime', 'Primer Apellido': 'Sabines', 'Segundo Apellido': 'López', 'Carrera': 'Derecho', 'Semestre': 7, 'Promedio': 8.45, 'Al Corriente': True}
+{'Nombre': 'Miguel Angel', 'Primer Apellido': 'Hernandez', 'Segundo Apellido': 'Rodriguez', 'Carrera': 'Sistemas', 'Semestre': 10, 'Promedio': 9.0, 'Al Corriente': True}
